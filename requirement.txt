@@ -1,0 +1,5 @@
+transformers
+torch
+presidio_analyzer 
+presidio_anonymizer
+tabulate 
